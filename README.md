@@ -1,7 +1,7 @@
-# elastic-scroll
+# Elastic Scroll
 Elastic scrolling using custom scroll view and sliver widgets in Flutter💙
 
-##sample-result
+## Sample Result
 
 <div align="center">
   
